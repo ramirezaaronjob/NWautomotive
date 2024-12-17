@@ -1,0 +1,16 @@
+LOCK TABLES
+            Vehicle v READ,
+            Vehicle_Color READ,
+            Employee epur READ,
+            Employee esales READ,
+            Customer csell READ,
+            Customer cbuy READ,
+            Customer c READ,
+            Individual ibuy READ,
+            Individual isell READ,
+            Individual i READ,
+            Business bbuy READ,
+            Business bsell READ,
+            Business b READ,
+            Part p READ,
+            Part pi READ;

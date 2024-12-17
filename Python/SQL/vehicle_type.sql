@@ -1,0 +1,1 @@
+SELECT type_name FROM Vehicle_Type ORDER BY 1;

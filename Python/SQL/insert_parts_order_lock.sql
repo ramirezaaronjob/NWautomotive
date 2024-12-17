@@ -1,0 +1,1 @@
+LOCK TABLE Parts_Order WRITE;

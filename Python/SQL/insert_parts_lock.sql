@@ -1,0 +1,1 @@
+LOCK TABLE Part WRITE;

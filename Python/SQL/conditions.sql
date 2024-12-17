@@ -1,0 +1,1 @@
+SELECT `condition` FROM `Condition` ORDER BY 1;
